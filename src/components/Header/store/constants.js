@@ -1,0 +1,3 @@
+export const GET_LOGIN_STATUS = 'HEADER/GET_LOGIN_STATUS';
+export const LOGIN = 'HEADER/LOGIN';
+export const LOGOUT = 'HEADER/LOGOUT';
